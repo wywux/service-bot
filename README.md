@@ -15,6 +15,6 @@
 ## Установка
 
 ```bash
-git clone https://github.com/ТВОЙ_ЮЗЕР/service-bot.git
+git clone https://github.com/wywux/service-bot.git
 cd service-bot
 pip install -r requirements.txt
